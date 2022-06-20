@@ -50,7 +50,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 25,
-    "versionPublish": "5.6.8"
+    "versionPublish": "5.6.8",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
